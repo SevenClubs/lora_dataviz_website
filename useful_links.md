@@ -4,3 +4,5 @@
 - Impact of AI on Digital Media (journalism, advertising, social media): https://www.kaggle.com/datasets/atharvasoundankar/impact-of-ai-on-digital-media-2020-2025
 - Whether and why we prefer human-created compared to AI-created artwork: https://pmc.ncbi.nlm.nih.gov/articles/PMC10319694/#Sec4
 - AI slop in music streaming: https://arxiv.org/html/2606.18052v1#bib
+- Who expands the human creative frontier with generative AI: Hiveminds or masterminds?https://datadryad.org/dataset/doi:10.5061/dryad.xpnvx0ksf#readme
+- Generative Artificial Intelligence, Adoption Rate for Work: Arts, Design, Entertainment, Sports, and Media Occupations https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREOCC9
