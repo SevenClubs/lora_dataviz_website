@@ -6,3 +6,4 @@
 - AI slop in music streaming: https://arxiv.org/html/2606.18052v1#bib
 - Who expands the human creative frontier with generative AI: Hiveminds or masterminds?https://datadryad.org/dataset/doi:10.5061/dryad.xpnvx0ksf#readme
 - Generative Artificial Intelligence, Adoption Rate for Work: Arts, Design, Entertainment, Sports, and Media Occupations https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREOCC9
+- How AI is useful for artists' productivity: https://academic.oup.com/pnasnexus/article/3/3/pgae052/7618478#449111171
