@@ -28,6 +28,12 @@ It proposes two studies in which participants were asked to rate different artis
 
 Possible questions linked to the dataset are "Are people biased when judging AI-generated artworks?", "Can people discriminate human-generated from AI-generated artworks?".
 
+4. [Interpretation of AI-generated vs. Human-made images](https://www.mdpi.com/article/10.3390/jimaging11070227/s1)
+
+The dataset is taken from the paper [Interpretation of AI-Generated vs. Human-Made Images](https://www.mdpi.com/2313-433X/11/7/227#Article_Metrics) and covers a survey on how the participants perceived the images based on their supposed origin (AI or human), the level of realism and the level of credibility.
+
+Possible questions linked to the dataset are "Is the public able to discriminate between AI-generated and human-made artworks?", "Are AI artworks perceived as credible?".
+
 - Upwork Market Index: https://github.com/snipeworkapp-oss/upwork-market-data
 - AI slop in music streaming: https://arxiv.org/html/2606.18052v1#bib (NO DATASET!) :(
 - Generative Artificial Intelligence, Adoption Rate for Work: Arts, Design, Entertainment, Sports, and Media Occupations https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREOCC9
