@@ -40,8 +40,8 @@ The datasets are taken from the paper [Bias against AI art can enhance perceptio
 
 Possible questions linked to the dataset are "Is the public biased against AI-generated artworks?", "Do AI artworks have artistic value for the public?".
 
+- AI slop in music streaming: https://arxiv.org/html/2606.18052v1#bib (very big dataset, 200GB of metadata from Spotify tracks, the paper used another tool to estimate which albums were AI generated and which we human generated, data at this [link](https://www.kaggle.com/datasets/lordpatil/spotify-metadata-by-annas-archive))
 - Upwork Market Index: https://github.com/snipeworkapp-oss/upwork-market-data
-- AI slop in music streaming: https://arxiv.org/html/2606.18052v1#bib (NO DATASET!) :(
 - Generative Artificial Intelligence, Adoption Rate for Work: Arts, Design, Entertainment, Sports, and Media Occupations https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREOCC9
 - How AI is useful for artists' productivity: https://academic.oup.com/pnasnexus/article/3/3/pgae052/7618478#449111171
 - How closely does AI-generated music follow what people ask for, and what emotions does it convey, compared with the human-made music it was prompted from? Sources:https://pmc.ncbi.nlm.nih.gov/articles/PMC11332804/  Dataset:https://www.kaggle.com/datasets/2ab339f9bbc64cf1b13beb52b0bef0a3f8401bfe1ed6e583b748a3e08b1a0a28
