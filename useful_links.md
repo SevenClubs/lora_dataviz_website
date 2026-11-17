@@ -9,7 +9,7 @@
 1. [Music and Artificial Intelligence: Artistic Trends](https://github.com/jordipons/ai-music-artistic-trends)
 
 ````{verbatim}
-[ Project - Artist - Year - Use of AI - Format - Origin of release ]
+[ Project | Artist | Year | Use of AI | Format | Origin of release ]
 ````
 The dataset is taken from the paper [How musicians use AI for music production](https://arxiv.org/html/2508.11694v1).
 It covers the period 2017-2025.
@@ -20,7 +20,7 @@ A possible question linked to the dataset is "What the AI is capable of doing (i
 2. [Impact of AI on Digital Media (journalism, advertising, social media)](https://www.kaggle.com/datasets/atharvasoundankar/impact-of-ai-on-digital-media-2020-2025)
 
 ````{verbatim}
-[ Country - Year - Industry - AI adoption rate (%) - AI-Generated content (TBs per year) - Job loss due to AI (%) - Revenue increase due to AI (%) - Human-AI collaboration rate (%) - Top AI tools used - Regulation status - Consumer trust in AI (%) - Market share of AI companies (%) ]
+[ Country | Year | Industry | AI adoption rate (%) | AI-Generated content (TBs per year) | Job loss due to AI (%) | Revenue increase due to AI (%) | Human-AI collaboration rate (%) | Top AI tools used | Regulation status | Consumer trust in AI (%) | Market share of AI companies (%) ]
 ````
 The dataset collects data from various sources (MIT, Standford, ArXiv and others) and it describes how the use of AI impacts digital media like social media, video games, marketing and many other fields, covering AI adoption rates, job losses and consumer trust.
 It covers the period 2020-2025.
