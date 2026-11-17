@@ -8,6 +8,7 @@
 
 1. [Music and Artificial Intelligence: Artistic Trends](https://github.com/jordipons/ai-music-artistic-trends)
 
+\[ Project - Artist - Year - Use of AI - Format - Origin of release \]
 The dataset is taken from the paper [How musicians use AI for music production](https://arxiv.org/html/2508.11694v1).
 It covers the period 2017-2025.
 The releases included come primarily from the "AI Song Contest" and it describes what is the usage of AI in the production process of the artist.
