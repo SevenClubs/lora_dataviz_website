@@ -51,3 +51,15 @@ Possible questions linked to the dataset are "Is the public biased against AI-ge
 - Generative Artificial Intelligence, Adoption Rate for Work: Arts, Design, Entertainment, Sports, and Media Occupations https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREOCC9
 - How AI is useful for artists' productivity: https://academic.oup.com/pnasnexus/article/3/3/pgae052/7618478#449111171
 - How closely does AI-generated music follow what people ask for, and what emotions does it convey, compared with the human-made music it was prompted from? Sources:https://pmc.ncbi.nlm.nih.gov/articles/PMC11332804/  Dataset:https://www.kaggle.com/datasets/2ab339f9bbc64cf1b13beb52b0bef0a3f8401bfe1ed6e583b748a3e08b1a0a28
+- [Enterprise GenAI Adoption & Workforce Impact Data](https://www.kaggle.com/datasets/tfisthis/enterprise-genai-adoption-and-workforce-impact-data)
+- [Global AI Tool Adoption Across Industries](https://www.kaggle.com/datasets/tfisthis/global-ai-tool-adoption-across-industries/data)
+- [AI Impact on Job Sector](https://www.kaggle.com/datasets/sumeakash/ai-impact-on-job-sector)
+- [Chat with Gemini](https://gemini.google.com/u/1/app/d1153772448f9f67?pageId=none)
+
+## Plots for assignment 1
+
+- Barchart:
+- Grouped barchart:
+- Heatmap:
+- 100% stacked barchart:
+- Waffle chart: 
