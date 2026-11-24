@@ -57,6 +57,7 @@ Possible questions linked to the dataset are "Is the public biased against AI-ge
 - [Chat with Gemini](https://share.gemini.google/eiyQhxZBZrRr)
 - [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/isoc_eb_ai/default/table?lang=en)
 - [Anthropic](https://huggingface.co/datasets/Anthropic/EconomicIndex/tree/main/labor_market_impacts)
+- [GenAI exposure scores for ISCO-08 occupations](https://github.com/pgmyrek/2025_GenAI_scores_ISCO08/tree/main)
 
 ## Plots for assignment 1
 
