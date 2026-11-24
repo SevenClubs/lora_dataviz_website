@@ -54,7 +54,7 @@ Possible questions linked to the dataset are "Is the public biased against AI-ge
 - [Enterprise GenAI Adoption & Workforce Impact Data](https://www.kaggle.com/datasets/tfisthis/enterprise-genai-adoption-and-workforce-impact-data)
 - [Global AI Tool Adoption Across Industries](https://www.kaggle.com/datasets/tfisthis/global-ai-tool-adoption-across-industries/data)
 - [AI Impact on Job Sector](https://www.kaggle.com/datasets/sumeakash/ai-impact-on-job-sector)
-- [Chat with Gemini](https://gemini.google.com/u/1/app/d1153772448f9f67?pageId=none)
+- [Chat with Gemini](https://share.gemini.google/eiyQhxZBZrRr)
 
 ## Plots for assignment 1
 
