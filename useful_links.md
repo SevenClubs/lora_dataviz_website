@@ -55,6 +55,7 @@ Possible questions linked to the dataset are "Is the public biased against AI-ge
 - [Global AI Tool Adoption Across Industries](https://www.kaggle.com/datasets/tfisthis/global-ai-tool-adoption-across-industries/data)
 - [AI Impact on Job Sector](https://www.kaggle.com/datasets/sumeakash/ai-impact-on-job-sector)
 - [Chat with Gemini](https://share.gemini.google/eiyQhxZBZrRr)
+- [Eurostat](https://ec.europa.eu/eurostat/databrowser/view/isoc_eb_ai/default/table?lang=en)
 
 ## Plots for assignment 1
 
