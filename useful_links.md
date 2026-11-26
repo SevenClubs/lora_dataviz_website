@@ -63,8 +63,6 @@ Possible questions linked to the dataset are "Is the public biased against AI-ge
 
 - Barchart: percentage of job losses grouped for industry (dataset: *Impact of AI on Digital Media*)
 - Grouped barchart: how do AI adoption varies across different industries grouping by company size (dataset *Global AI Tool Adoption Across Industries*)
-- Come varia l'adozione dell'IA tra i diversi settori in base alla dimensione dell'azienda (o all'anno)?
 - Heatmap: show productivity change based on education degree and industry (dataset: *AI Impact on Job Sector*)
 - 100% stacked barchart: group AI tool percentage per industry (dataset: *Enterprise GenAI Adoption & Workforce Impact Data*)
 - Waffle chart: **automation_risk**/job_growth_projection per 100 workers (dataset *AI Impact on Job Sector*)
-- Ogni quadratino rappresenta l'1% del campione, colorato in base a Automation_Risk (Low, Medium, High) oppure Job_Growth_Projection (Growth, Stable, Decline).
