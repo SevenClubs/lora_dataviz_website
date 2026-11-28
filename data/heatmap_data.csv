@@ -1,0 +1,29 @@
+industry,education,mean_productivity_change,n
+Manufacturing,High School,14.55,78
+Manufacturing,Bachelor,9.63,85
+Manufacturing,Master,11.96,65
+Manufacturing,PhD,6.34,67
+Marketing,High School,7.71,66
+Marketing,Bachelor,9.57,82
+Marketing,Master,12.68,69
+Marketing,PhD,11.65,56
+Education,High School,11.06,68
+Education,Bachelor,10.24,83
+Education,Master,8.77,66
+Education,PhD,9.91,76
+Finance,High School,9.93,76
+Finance,Bachelor,7.67,73
+Finance,Master,8.64,81
+Finance,PhD,12.22,70
+Retail,High School,12.45,59
+Retail,Bachelor,9.15,67
+Retail,Master,10.24,71
+Retail,PhD,6.8,74
+Healthcare,High School,10.64,63
+Healthcare,Bachelor,8.07,73
+Healthcare,Master,9.47,77
+Healthcare,PhD,9.2,57
+IT,High School,9.33,87
+IT,Bachelor,9.11,66
+IT,Master,10.24,79
+IT,PhD,7.25,66
