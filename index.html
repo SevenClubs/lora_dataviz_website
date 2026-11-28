@@ -33,7 +33,7 @@ var svg = d3.select("body").append("svg")
           "translate(" + margin.left + "," + margin.top + ")");
 
 // Get data
-d3.csv("mean_job_loss_per_industry.csv").then(function(data) {
+d3.csv("data/mean_job_loss_per_industry.csv").then(function(data) {
 
   // Format data
   data.forEach(function(d) {
